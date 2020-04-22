@@ -6,3 +6,5 @@ to check status use alias -> gitstat
 to make new commit use alias -> gitcom [commit notes]
 
 To push to github use alias -> gitpush
+
+test
