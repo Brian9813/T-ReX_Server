@@ -1,10 +1,10 @@
 Don't judge i'm new
 
 
-to check status use alias -> gitstat
+to add to the commit use aliad -> gtad [filename]
 
-to make new commit use alias -> gitcom [commit notes]
+to check status use alias -> gtstat
 
-To push to github use alias -> gitpush
+to make new commit use alias -> gtcom [commit notes]
 
-test
+To push to github use alias -> gtpush
